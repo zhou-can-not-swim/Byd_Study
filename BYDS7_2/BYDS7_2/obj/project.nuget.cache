@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "ewpZ3/p0QMw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\qiyu.zhou\\Desktop\\plc\\BYDS7_2\\BYDS7_2\\BYDS7_2_plc_mst.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\fsharp.core\\9.0.303\\fsharp.core.9.0.303.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.8\\microsoft.extensions.dependencyinjection.abstractions.9.0.8.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\microsoft.extensions.options\\9.0.8\\microsoft.extensions.options.9.0.8.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.8\\microsoft.extensions.primitives.9.0.8.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\sharp7\\1.1.84\\sharp7.1.1.84.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\sharpcompress\\0.40.0\\sharpcompress.0.40.0.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\system.buffers\\4.6.0\\system.buffers.4.6.0.nupkg.sha512",
+    "C:\\Users\\qiyu.zhou\\.nuget\\packages\\zstdsharp.port\\0.8.5\\zstdsharp.port.0.8.5.nupkg.sha512"
+  ],
+  "logs": []
+}
