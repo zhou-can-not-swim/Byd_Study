@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\middlewares\\entryarrivedmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\middlewares\\entryarrivedmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10EAE9F7-4F74-405F-8469-E778B2FA0570}|BYD_4_test\\BYD_4_test.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd_4_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10EAE9F7-4F74-405F-8469-E778B2FA0570}|BYD_4_test\\BYD_4_test.csproj|solutionrelative:byd_4_test\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\plc_mst\\plcinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\plc_mst\\plcinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\plc_mst\\plcinfo_gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\plc_mst\\plcinfo_gateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EntryArrivedMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "RelativeToolTip": "Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:53:59.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\BYD_4_test\\Program.cs",
+              "RelativeDocumentMoniker": "BYD_4_test\\Program.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\BYD_4_test\\Program.cs",
+              "RelativeToolTip": "BYD_4_test\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:53:16.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlcInfo.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\plc_mst\\PlcInfo.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\plc_mst\\PlcInfo.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\plc_mst\\PlcInfo.cs",
+              "RelativeToolTip": "Byd.Demo\\plc_mst\\PlcInfo.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:44:56.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlcInfo_Gateway.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\plc_mst\\PlcInfo_Gateway.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\plc_mst\\PlcInfo_Gateway.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\plc_mst\\PlcInfo_Gateway.cs",
+              "RelativeToolTip": "Byd.Demo\\plc_mst\\PlcInfo_Gateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:44:24.541Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

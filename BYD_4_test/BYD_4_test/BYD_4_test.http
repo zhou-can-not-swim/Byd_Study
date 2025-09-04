@@ -1,0 +1,6 @@
+@BYD_4_test_HostAddress = http://localhost:5254
+
+GET {{BYD_4_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

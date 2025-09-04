@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\scan\\work\\workbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\scan\\work\\workbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\scan\\scanprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\scan\\scanprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\scan\\work\\iworkmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\scan\\work\\iworkmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\scan\\work\\iworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\scan\\work\\iworkcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\scan\\scancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\scan\\scancontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|c:\\users\\qiyu.zhou\\desktop\\byd_4_test\\byd.demo\\middlewares\\entryarrivedmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CA0F22E-79DB-4CA0-A1EA-CF33DAB970C0}|Byd.Demo\\Byd.Demo.csproj|solutionrelative:byd.demo\\middlewares\\entryarrivedmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScanProcessor.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\ScanProcessor.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\scan\\ScanProcessor.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\ScanProcessor.cs",
+              "RelativeToolTip": "Byd.Demo\\scan\\ScanProcessor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:36:06.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\work\\WorkBuilder.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\scan\\work\\WorkBuilder.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\work\\WorkBuilder.cs",
+              "RelativeToolTip": "Byd.Demo\\scan\\work\\WorkBuilder.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:15:31.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWorkContext.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\work\\IWorkContext.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\scan\\work\\IWorkContext.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\work\\IWorkContext.cs",
+              "RelativeToolTip": "Byd.Demo\\scan\\work\\IWorkContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:14:03.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWorkMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\work\\IWorkMiddleware.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\scan\\work\\IWorkMiddleware.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\work\\IWorkMiddleware.cs",
+              "RelativeToolTip": "Byd.Demo\\scan\\work\\IWorkMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:12:08.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ScanContext.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\ScanContext.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\scan\\ScanContext.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\scan\\ScanContext.cs",
+              "RelativeToolTip": "Byd.Demo\\scan\\ScanContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T02:04:11.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d375ef0d-9946-4920-bae8-e432ebc42c55}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EntryArrivedMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "RelativeDocumentMoniker": "Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "ToolTip": "C:\\Users\\qiyu.zhou\\Desktop\\BYD_4_test\\Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "RelativeToolTip": "Byd.Demo\\Middlewares\\EntryArrivedMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:53:59.836Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

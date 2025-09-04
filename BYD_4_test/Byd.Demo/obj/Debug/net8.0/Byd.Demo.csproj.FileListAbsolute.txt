@@ -1,0 +1,12 @@
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.csproj.AssemblyReference.cache
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.AssemblyInfoInputs.cache
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.AssemblyInfo.cs
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.csproj.CoreCompileInputs.cache
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\bin\Debug\net8.0\Byd.Demo.deps.json
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\bin\Debug\net8.0\Byd.Demo.dll
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\bin\Debug\net8.0\Byd.Demo.pdb
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.dll
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\refint\Byd.Demo.dll
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\Byd.Demo.pdb
+C:\Users\qiyu.zhou\Desktop\plc\BYD_4_test\Byd.Demo\obj\Debug\net8.0\ref\Byd.Demo.dll
